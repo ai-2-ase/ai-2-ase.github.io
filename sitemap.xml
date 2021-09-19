@@ -14,9 +14,6 @@
     <loc>https://ai-2-ase.github.io/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ai-2-ase.github.io/authors/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ai-2-ase.github.io/categories/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -42,9 +39,6 @@
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ai-2-ase.github.io/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ai-2-ase.github.io/speakers/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ai-2-ase.github.io/tag/deep-learning/</loc>
@@ -78,5 +72,7 @@
     <loc>https://ai-2-ase.github.io/dates/</loc>
   </url><url>
     <loc>https://ai-2-ase.github.io/schedule/</loc>
+  </url><url>
+    <loc>https://ai-2-ase.github.io/speakers/</loc>
   </url>
 </urlset>
