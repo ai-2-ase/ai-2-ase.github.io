@@ -468,6 +468,36 @@
         
 
         <li class="nav-item">
+          <a class="nav-link  active" href="/schedule"><span>Schedule</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
           <a class="nav-link " href="/dates"><span>Important Dates</span></a>
         </li>
 
@@ -637,33 +667,149 @@
 
 <div class="universal-wrapper">
   
-    <div class="article-style"><p>The workshop will be held on <strong>Monday, 26th February, 2024</strong> and all times are in <strong>PST (Pacific Standard Time zone)</strong>. The workshop location is <strong>Room 110</strong> and the poster session will be in <strong>Room 301</strong> from 4-6 PM.</p>
+    <div class="article-style"><!-- The workshop will be held on **Monday, 26th February, 2024** and all times are in **PST (Pacific Standard Time zone)**. The workshop location is **Room 110** and the poster session will be in **Room 301** from 4-6 PM. -->
 <!-- The workshop location is **Room 145A** in Walter E. Washington Convention Center, Washington, DC, USA.  -->
-<!-- For attending virtually, the zoom link can be accessed through the Underline platform [here](https://underline.io/events/390/sessions?eventSessionId=14169). -->
-<p>8:45-9:00am: Opening Remarks</p>
-<p>9:00am-9:30am: Invited Speaker: Ying Diao</p>
-<p>9:30am-10:00am: Invited Speaker: Vahid Babaei</p>
-<p>10:00am-11:00am: Spotlight Presentations 1</p>
-<ul>
-<li>Timothy D Gebhard, Jonas Bernhard Wildberger, Maximilian Dax, Daniel Angerhausen, Sascha Quanz, Bernhard Schölkopf. <em>Inferring Atmospheric Properties of Exoplanets with Flow Matching and Neural Importance Sampling</em>.</li>
-<li>Karuna Bhaila, Xintao Wu. <em>Cascading Failure Prediction in Power Grid Using Node and Edge Attributed Graph Neural Networks.</em></li>
-<li>Ceyao Zhang, Renjie Li, Cheng Zhang, Zhaoyu Zhang, Feng Yin. <em>Inverse Design of Photonic Crystal Surface Emitting Lasers is a Sequence Modeling Problem.</em></li>
-<li>Yuya Note, Takaharu Yaguchi, Toshiaki Omori. <em>Sparse Estimation of Dynamical System Based on Hamiltonian Mechanics.</em></li>
-<li>Luke McDermott, Javier Duarte, Nhan Tran, Jason D Weitz, Dmitri P Demler, Daniel Cummings. <em>Neural Architecture Codesign for Fast Bragg Peak Analysis.</em></li>
-</ul>
-<p>11:00am-11:30am - Invited Speaker: Tao Sun</p>
-<p>11:30am-12:00am - Invited Speaker: John Gregoire</p>
-<p>12:00pm-2:00pm: Lunch Break</p>
-<p>2:00pm-2:30pm: Invited Speaker: Koji Tsuda</p>
-<p>2:30pm-3:00pm: Invited Speaker: Roman Garnett</p>
-<p>3:00pm-3:30pm: Panel Session</p>
-<p>3:30pm-4:00pm: Spotlight Presentations 2</p>
-<ul>
-<li>Maxwell J Jacobson, Md Nasim, Nan Jiang, Yexiang Xue. <em>Vertical AI-driven Scientific Discovery.</em></li>
-<li>Shai Pranesh, Shang Zhu, Venkat Viswanathan, Bharath Ramsundar. <em>Open-Source Fermionic Neural Network With Ionic Charge Initialization.</em></li>
-<li>Nina V Gubina, Andrei Dmitrenko, Lyubov Yamshchikova, Ivan Lebedev, Grigory Kirgizov, Nikita S. Serov, Nikolay Nikitin, Vladimir Vinogradov. <em>Generative AI for Co-Crystal Design with Property Control.</em></li>
-</ul>
-<p>4:00-6:00pm: Closing remarks and Poster Session</p>
+<style>
+.schedule {
+  max-width: 800px;
+  margin: 0 auto;
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+.schedule-item {
+  display: flex;
+  gap: 1.5rem;
+  padding: 1rem;
+  margin: 0.5rem 0;
+  border-left: 4px solid #e5e7eb;
+  background: white;
+  transition: all 0.2s ease;
+}
+
+.schedule-item:hover {
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.time {
+  min-width: 140px;
+  color: #4b5563;
+  font-weight: 500;
+}
+
+.event {
+  flex-grow: 1;
+}
+
+.speaker { border-left-color: #3b82f6; }
+.poster { border-left-color: #22c55e; }
+.break { border-left-color: #f97316; }
+.panel { border-left-color: #a855f7; }
+
+.legend {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+  padding: 1rem;
+  font-size: 0.875rem;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.legend-dot {
+  width: 0.75rem;
+  height: 0.75rem;
+  border-radius: 50%;
+}
+
+.legend-speaker { background: #3b82f6; }
+.legend-poster { background: #22c55e; }
+.legend-break { background: #f97316; }
+.legend-panel { background: #a855f7; }
+</style>
+</head>
+<body>
+<div class="schedule">
+  <div class="schedule-item">
+    <div class="time">8:45 - 9:00</div>
+    <div class="event">Opening Remarks</div>
+  </div>
+  <div class="schedule-item speaker">
+    <div class="time">9:00 - 9:30</div>
+    <div class="event">Invited Speaker: Marinka Zitnik</div>
+  </div>
+  <div class="schedule-item speaker">
+    <div class="time">9:30 - 10:00</div>
+    <div class="event">Invited Speaker: Le Song</div>
+  </div>
+  <div class="schedule-item poster">
+    <div class="time">10:00 - 10:45</div>
+    <div class="event">Poster Presentations 1</div>
+  </div>
+  <div class="schedule-item speaker">
+    <div class="time">10:45 - 11:15</div>
+    <div class="event">Invited Speaker: Sam Stanton</div>
+  </div>
+  <div class="schedule-item speaker">
+    <div class="time">11:15 - 11:45</div>
+    <div class="event">Invited Speaker: Alexis Battle</div>
+  </div>
+  <div class="schedule-item poster">
+    <div class="time">11:45 - 12:30</div>
+    <div class="event">Poster Presentations 2</div>
+  </div>
+  <div class="schedule-item break">
+    <div class="time">12:30 - 13:30</div>
+    <div class="event">Lunch Break</div>
+  </div>
+  <div class="schedule-item poster">
+    <div class="time">13:30 - 14:15</div>
+    <div class="event">Poster Presentations 3</div>
+  </div>
+  <div class="schedule-item speaker">
+    <div class="time">14:15 - 14:45</div>
+    <div class="event">Invited Speaker: Romain Lopez</div>
+  </div>
+  <div class="schedule-item speaker">
+    <div class="time">14:45 - 15:15</div>
+    <div class="event">Invited Speaker: Caroline Uhler</div>
+  </div>
+  <div class="schedule-item panel">
+    <div class="time">15:15 - 16:00</div>
+    <div class="event">Panel Session</div>
+  </div>
+  <div class="schedule-item poster">
+    <div class="time">16:00 - 17:00</div>
+    <div class="event">Poster Presentations 4</div>
+  </div>
+  <div class="schedule-item poster">
+    <div class="time">17:00 - 18:00</div>
+    <div class="event">Poster Presentations 5</div>
+  </div>
+  <div class="legend">
+    <div class="legend-item">
+      <div class="legend-dot legend-speaker"></div>
+      <span>Invited Speakers</span>
+    </div>
+    <div class="legend-item">
+      <div class="legend-dot legend-poster"></div>
+      <span>Poster Sessions</span>
+    </div>
+    <div class="legend-item">
+      <div class="legend-dot legend-break"></div>
+      <span>Break</span>
+    </div>
+    <div class="legend-item">
+      <div class="legend-dot legend-panel"></div>
+      <span>Panel Session</span>
+    </div>
+  </div>
+</div>
+</body>
 </div>
   
 
