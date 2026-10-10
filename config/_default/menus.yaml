@@ -1,0 +1,43 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Call for Papers
+    url: 'cop'
+    weight: 10
+  - name: Schedule
+    url: 'schedule'
+    weight: 25
+  - name: Accepted Papers 
+    url: 'papers'
+    weight: 35
+  # - name: Invited Speakers
+  #  url: 'speakers'
+  #  weight: 20
+  - name: Important Dates
+    url: 'dates'
+    weight: 40
+  - name: AAAI 2027
+    url: 'https://aaai.org/aaai-conference/'
+    weight: 42
+  - name: AI2ASE 2026
+    url: 'https://ai-2-ase-2026.github.io/'
+    weight: 43
+  - name: AI2ASE 2025
+    url: 'https://ai-2-ase-2025.github.io/'
+    weight: 44
+  - name: AI2ASE 2023
+    url: 'https://ai-2-ase-2023.github.io/'
+    weight: 45
+  - name: AI2ASE 2022
+    url: 'https://ai-2-ase-2022.github.io/'
+    weight: 46
+
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
+#  - name: CV
+#    url: uploads/resume.pdf
+#    weight: 70

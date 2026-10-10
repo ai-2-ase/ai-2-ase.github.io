@@ -1,0 +1,12 @@
+# IDEs
+.idea/
+
+# Hugo
+/resources/
+public/
+jsconfig.json
+node_modules/
+
+# Local build state
+.hugo_build.lock
+.DS_Store

@@ -1,0 +1,83 @@
+---
+# Display name
+title: Jana Doppa
+
+# Is this the primary user of the site?
+superuser: false
+weight: 3
+
+
+# Role/position/tagline
+# role: Professor of Artificial Intelligence
+
+# Organizations/Affiliations to show in About widget
+organizations:
+- name: Washington State University
+  url: https://www.wsu.edu/
+
+# Short bio (displayed in user profile at end of posts)
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+
+# Interests to show in About widget
+# interests:
+# - Artificial Intelligence
+# - Computational Linguistics
+# - Information Retrieval
+
+# Education to show in About widget
+# education:
+#   courses:
+#   - course: PhD in Artificial Intelligence
+#     institution: Stanford University
+#     year: 2012
+#   - course: MEng in Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     year: 2009
+#   - course: BSc in Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     year: 2008
+
+user_groups: ["Organizers"]
+
+# Social/Academic Networking
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+social:
+- icon: home
+  icon_pack: fas
+  link: https://eecs.wsu.edu/~jana/
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:jana.doppa@wsu.edu'
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
+# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#   icon_pack: fas
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/gcushen
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/
+
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
+# gallery_item:
+# - album: assets/media/albums/organizers/
+# image: photo_1.jpeg
+#  caption: Write your image 1 caption here
+---
