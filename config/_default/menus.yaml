@@ -29,12 +29,15 @@ main:
   - name: AI2ASE 2025
     url: 'https://ai-2-ase-2025.github.io/'
     weight: 44
+  - name: AI2ASE 2024
+    url: 'https://ai2-ase-2024.github.io/'
+    weight: 45
   - name: AI2ASE 2023
     url: 'https://ai-2-ase-2023.github.io/'
-    weight: 45
+    weight: 46
   - name: AI2ASE 2022
     url: 'https://ai-2-ase-2022.github.io/'
-    weight: 46
+    weight: 47
 
 
 # Link to a PDF of your resume/CV from the menu.
