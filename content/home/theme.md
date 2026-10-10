@@ -56,6 +56,4 @@ Scientists and engineers in diverse application domains are increasingly relying
 2) Develop, adapt, and refine AI tools for novel problem settings and challenges.
 3) Community-building and education to encourage collaboration between AI researchers and domain area experts.
 
-**AI2ASE 2027 — workshop date, venue, and this year’s theme will be announced.**
-
 For the previous workshop’s speakers, program, and accepted papers, visit [AI2ASE 2026](https://ai-2-ase-2026.github.io/).

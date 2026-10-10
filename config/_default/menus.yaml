@@ -7,12 +7,13 @@ main:
   - name: Call for Papers
     url: 'cop'
     weight: 10
-  - name: Schedule
-    url: 'schedule'
-    weight: 25
-  - name: Accepted Papers 
-    url: 'papers'
-    weight: 35
+  # Restore these links when the schedule and accepted papers are ready.
+  # - name: Schedule
+  #   url: 'schedule'
+  #   weight: 25
+  # - name: Accepted Papers
+  #   url: 'papers'
+  #   weight: 35
   # - name: Invited Speakers
   #  url: 'speakers'
   #  weight: 20
