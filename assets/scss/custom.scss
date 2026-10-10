@@ -1,0 +1,54 @@
+// Keep layout refinements scoped to the workshop homepage.
+#title .container,
+#theme .container {
+  width: 100%;
+  max-width: 980px;
+  padding-right: 24px;
+  padding-left: 24px;
+}
+
+#title .section-heading {
+  margin-bottom: 0 !important;
+}
+
+#title .section-heading h1 {
+  color: #243b53;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -0.025em;
+}
+
+#title .section-heading p {
+  max-width: 760px;
+  margin: 12px auto 0 !important;
+  color: #465d72;
+  font-size: 1.05rem;
+  line-height: 1.5;
+}
+
+#theme {
+  line-height: 1.65;
+}
+
+#theme p:last-child {
+  margin-bottom: 0;
+}
+
+#speakers .section-heading h1,
+#organizing_comittee .section-heading h1 {
+  margin-top: 0;
+  margin-bottom: 24px;
+  font-size: 1.7rem;
+  line-height: 1.25;
+}
+
+@media (max-width: 575.98px) {
+  #title .section-heading h1 {
+    font-size: 2.1rem;
+  }
+
+  #title .section-heading p {
+    font-size: 1rem;
+  }
+}

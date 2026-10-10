@@ -23,19 +23,27 @@ main:
   - name: AAAI 2027
     url: 'https://aaai.org/conference/aaai/aaai-27/'
     weight: 42
+  - name: Previous Workshops
+    identifier: previous-workshops
+    weight: 43
   - name: AI2ASE 2026
+    parent: previous-workshops
     url: 'https://ai-2-ase-2026.github.io/'
     weight: 43
   - name: AI2ASE 2025
+    parent: previous-workshops
     url: 'https://ai-2-ase-2025.github.io/'
     weight: 44
   - name: AI2ASE 2024
+    parent: previous-workshops
     url: 'https://ai2-ase-2024.github.io/'
     weight: 45
   - name: AI2ASE 2023
+    parent: previous-workshops
     url: 'https://ai-2-ase-2023.github.io/'
     weight: 46
   - name: AI2ASE 2022
+    parent: previous-workshops
     url: 'https://ai-2-ase-2022.github.io/'
     weight: 47
 

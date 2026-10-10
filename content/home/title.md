@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "6th Annual AAAI Workshop on AI to Accelerate Science and Engineering (AI2ASE 2027)"
-subtitle = ""
+title = "AI2ASE 2027"
+subtitle = "6th Annual AAAI Workshop on AI to Accelerate Science and Engineering"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -22,7 +22,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#c3ced9"
+  color = "#eef3f8"
   # color = "#7ab1f0"
   
   # Background gradient.
@@ -41,7 +41,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["32px", "0", "28px", "0"]
 
 [advanced]
  # Custom CSS. 

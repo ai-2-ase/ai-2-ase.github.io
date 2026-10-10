@@ -12,6 +12,8 @@ content:
   user_groups:
     - Organizers
 design:
+  spacing:
+    padding: ["40px", "0", "40px", "0"]
   # Show user's social networking links? (true/false)
   show_social: true
   # Show user's interests? (true/false)

@@ -29,6 +29,7 @@ hugo server --disableFastRender --i18n-warnings
 - `content/schedule/_index.md`: program.
 - `content/papers/_index.md`: accepted papers.
 - `config/_default/menus.yaml`: navigation and earlier editions.
+- `assets/scss/custom.scss`: homepage text width, title typography, and section headings. Section padding is set in the home widgets. Earlier editions use the template's built-in nested menu.
 - `config/_default/config.yaml`: base URL and Hugo configuration.
 
 The 2027 edition lists Diana Cai, Felix Draxler, Samuel Kaski, and Sungsoo Ahn as invited speakers. The call for papers retains the 2026 topics, paper lengths, submission format, and non-archival policy. Paper submission is November 15, 2026 (11:59 PM PST); notification is November 30, 2026. Theme, venue, workshop date, camera-ready deadline, submission-site URL, schedule, and accepted papers remain to be announced. Portrait provenance is recorded in `SPEAKER-SOURCES.md`. The 2026 organizing committee is retained pending updates. Prior speakers remain as draft source profiles and are excluded from the new speaker list. All older editions remain linked.

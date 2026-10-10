@@ -13,6 +13,8 @@ content:
   user_groups:
     - Speakers
 design:
+  spacing:
+    padding: ["36px", "0", "40px", "0"]
   # Show user's social networking links? (true/false)
   show_social: true
   # Show user's interests? (true/false)
