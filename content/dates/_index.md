@@ -14,9 +14,9 @@ header:
   image: ""
 ---
 
-Paper submission deadline: To be announced.
+Paper submission deadline: **November 15, 2026 (11:59 PM PST).**
 
-Notification: To be announced.
+Notification: **November 30, 2026.**
 
 Camera-ready deadline: To be announced.
 

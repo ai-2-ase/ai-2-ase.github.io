@@ -3,6 +3,13 @@ title: Speakers
 cms_exclude: true
 ---
 
-Invited speakers for AI2ASE 2027 will be announced.
+Invited speakers for AI2ASE 2027:
 
-See the [AI2ASE 2026 archive](https://ai-2-ase-2026.github.io/#speakers) for the previous workshop’s speakers.
+- [Diana Cai](https://www.dianacai.com/) — Cornell University
+- [Felix Draxler](https://fdraxler.github.io/) — University of California, Irvine
+- [Samuel Kaski](https://kaski-lab.com/) — ELLIS Institute Finland
+- [Sungsoo Ahn](https://sungsoo-ahn.github.io/) — KAIST Graduate School of AI
+
+[View speaker photos on the workshop homepage](/#speakers).
+
+Felix Draxler’s photo © [Mel Photography](https://mel-photography.com/).
