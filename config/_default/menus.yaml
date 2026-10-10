@@ -21,7 +21,7 @@ main:
     url: 'dates'
     weight: 40
   - name: AAAI 2027
-    url: 'https://aaai.org/aaai-conference/'
+    url: 'https://aaai.org/conference/aaai/aaai-27/'
     weight: 42
   - name: AI2ASE 2026
     url: 'https://ai-2-ase-2026.github.io/'
