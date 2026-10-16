@@ -31,7 +31,7 @@ We welcome submissions of long (max. 8 pages), short (max. 4 pages), and positio
 
 Submissions must be formatted in the AAAI submission format. All submissions should be done electronically via CMT.
 
-Submission Site: To be announced.
+Submission Site: [Submit your paper via Microsoft CMT](https://cmt3.research.microsoft.com/AIASE2026).
 
 **Paper submission deadline: November 15, 2026 (11:59 PM PST).**
 
