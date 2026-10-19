@@ -3,7 +3,7 @@ title: "Felix Draxler"
 superuser: false
 weight: 2
 organizations:
-- name: "University of California, Irvine"
+- name: "Chai Discovery, Inc"
   url: https://fdraxler.github.io/
 user_groups: ["Speakers"]
 social:
