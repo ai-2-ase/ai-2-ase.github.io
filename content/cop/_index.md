@@ -29,6 +29,8 @@ We solicit papers in the context of scientific discovery and engineering design 
 
 We welcome submissions of long (max. 8 pages), short (max. 4 pages), and position (max. 4 pages) papers describing research at the intersection of AI and science/engineering domains including chemistry, physics, power systems, materials, catalysis, health sciences, computing systems design and optimization, epidemiology, agriculture, forestry, transportation, earth and environmental sciences, genomics and bioinformatics, civil and mechanical engineering etc.
 
+References do not count towards the page limit.
+
 Submissions must be formatted in the AAAI submission format. All submissions should be done electronically via CMT.
 
 Submission Site: [Submit your paper via Microsoft CMT](https://cmt3.research.microsoft.com/AIASE2026).
